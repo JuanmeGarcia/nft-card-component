@@ -7,8 +7,8 @@
 
     /* secondary */
 
-    --clr-dark-blue: hsl(217, 54%, 11%);
-    --clr-darker-blue: hsl(216, 50%, 16%);
+    --clr-dark-blue-bg: hsl(217, 54%, 11%);
+    --clr-dark-blue-card-bg: hsl(216, 50%, 16%);
     --clr-dark-blue-line: hsl(215, 32%, 27%)
     --clr-white: hsl(0, 0%, 100%)
 
